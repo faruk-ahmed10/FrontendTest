@@ -1,0 +1,15 @@
+https://www.figma.com/file/7SYwK4sCkmntpRW8h814CX/Frontend-Interview-Test?node-id=0%3A1
+
+
+  CSS Framework (MUST USE EITHER OF THESE): 
+ • Ant Design
+OR
+ • Bootstrap 4/5
+
+What we'll be examining:
+ • Scaffold/Project Architecture
+ • Code Commenting
+ • Unit testing
+ • Development Speed
+ • Code style
+ • Other good development practices
